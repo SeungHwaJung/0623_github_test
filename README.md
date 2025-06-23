@@ -98,7 +98,7 @@ ___
 2. **New Notebook** 클릭하기
 <img src="이미지_URL" width="300"/>
 3.
-   <img src="!https://github.com/user-attachments/assets/a424d8ba-83d7-4dab-86b0-4e649d96e8ad" width="200"/>
+   <img src="!https://github.com/user-attachments/assets/a424d8ba-83d7-4dab-86b0-4e649d96e8ad" width="600"/>
 
    (1) 노트 이름 변경 -> (2) 런타임 클릭 -> (3) 런타임 유형 변경 클릭 -> T4 GPU로 변경 후 저장
 
