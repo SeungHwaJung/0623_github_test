@@ -8,8 +8,9 @@
 #### 0623 내용 - nvidia 계정 github 계정 생성 github, 오늘 수업에서 가장 중요한 Markdown 사용법?
 
 ## 📌목차
-1. [About GitHub, Markdown, Colab](./1_GitHub_Markdown_Colab/README.md)
-2. [About Python3](./2_Python3/README.md)
+1. GitHub, Markdown, Colab에 대하여 알아보자.
+2. README에 python 코드를 불러오는 방법은?
+
 
 
 
