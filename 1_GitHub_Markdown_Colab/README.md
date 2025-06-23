@@ -1,4 +1,4 @@
-# 1. About GitHub, Markdown, Colab
+# 1. GitHub, Markdown, Colab에 대해 알아보자.
 
 ## ✅ GitHub란?
 - 내 소스코드를 저장, 소스코드 공유, 협업하여 작성할 수 있는 하나의 공간이다.
