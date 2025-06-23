@@ -11,7 +11,7 @@
 
 
 ``` bash
-블라블라
+0623 1일차 지연진
 ```
 ```
 install matplotlib
