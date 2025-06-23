@@ -1,7 +1,8 @@
 # 0623_github_test
 ### 지연진의 GitHub 
-###### ![ai](https://github.com/user-attachments/assets/7ab7a5b8-a21d-4781-a90b-80ed15785588)
-### *이것은 AI 이미지*
+###### ![image](https://github.com/user-attachments/assets/e936cf2d-5e83-43dc-bae1-322b1b4cee0b)
+
+### *이것은 Chat gpt & GitHub 이미지*
 > 나의 README에 오신 것을 환영합니다.
 
  
@@ -34,10 +35,9 @@
 1. **GitHub에 로그인 후 New Repository 버튼 클릭**
 ![image](https://github.com/user-attachments/assets/51574b49-806e-46be-b862-e11d565645ae)
 
-2. ![image](https://github.com/user-attachments/assets/08d3ab1a-2cb7-47b1-a4a3-0d2af51c7d8c)
+2. (1) **Repository 이름 입력** -> (2) **Public 선택** -> (3) **Add a README file 생성 체크** -> (4) **Create repository 선택**
 
-3. (1) **Repository 이름 입력** -> (2) **Public 선택** -> (3) **Add a README file 생성 체크** -> (4) **Create repository 선택**
-
+![image](https://github.com/user-attachments/assets/08d3ab1a-2cb7-47b1-a4a3-0d2af51c7d8c)
 
 
 
