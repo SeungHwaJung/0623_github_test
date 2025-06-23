@@ -1,5 +1,8 @@
 # 0623_github_test
-## **인공 지능 컴퓨팅 세계** *테스트 중입니다*
+## GitHub 저장소 안에
+1_GitHub_Markdown_Colab, 2_Python3 폴더를 만들고
+
+메인 README에서 항목을 클릭하면 각 폴더의 내용을 볼 수 있도록 만들기
 ### ~~취소선입니다~~
 ![ai](https://github.com/user-attachments/assets/7ab7a5b8-a21d-4781-a90b-80ed15785588)
 ## **이것은 AI 이미지**
