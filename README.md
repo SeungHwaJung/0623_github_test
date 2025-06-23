@@ -4,8 +4,17 @@
 ### *이것은 AI 이미지*
 > 나의 README에 오신 것을 환영합니다.
 
-### 
-#### 0623 내용 - nvidia 계정 github 계정 생성 github 작성법(Markdown 사용법) 익히기
+ 
+#### 0623 내용 - nvidia 계정 github 계정 생성 github, 오늘 수업에서 가장 중요한 Markdown 사용법?
+
+## 📌목차
+1. [About GitHub, Markdown, Colab](./1_GitHub_Markdown_Colab/README.md)
+2. [About Python3](./2_Python3/README.md)
+
+
+
+
+
 
 
 ``` bash
