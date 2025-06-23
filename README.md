@@ -6,6 +6,7 @@
 > 환영합니다.
 
 ### readme를 채우자
+# 0623 내용 - nvidia 계정 github 계정 생성 github 작성법(Markdown 사용법) 익히기
 
 
 ``` bash
