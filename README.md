@@ -1,5 +1,5 @@
 # 0623_github_test
-### GitHub 저장소 안에 1_GitHub_Markdown_Colab, Python폴더를 만들고 README에서 항목을 클릭하면 각 폴더의 내용을 볼 수 있습니다.
+### 지연진의 GitHub 
 ###### ![ai](https://github.com/user-attachments/assets/7ab7a5b8-a21d-4781-a90b-80ed15785588)
 ### *이것은 AI 이미지*
 > 나의 README에 오신 것을 환영합니다.
@@ -26,10 +26,20 @@
 
 3. **가입시 개인정보 입력** -> 이메일 주소, 비밀번호 만들기
 
-4. 사용자 이름 정하기 -> 나만의 고유한 이름
+4. **사용자 이름** 정하기 -> 나만의 고유한 이름
 
 
-✅
+### ✅Repository 만들기 순서
+
+1. **GitHub에 로그인 후 New Repository 버튼 클릭**
+![image](https://github.com/user-attachments/assets/51574b49-806e-46be-b862-e11d565645ae)
+
+2. ![image](https://github.com/user-attachments/assets/08d3ab1a-2cb7-47b1-a4a3-0d2af51c7d8c)
+
+3. (1) **Repository 이름 입력** -> (2) **Public 선택** -> (3) **Add a README file 생성 체크** -> (4) **Create repository 선택**
+
+
+
 
 
    
