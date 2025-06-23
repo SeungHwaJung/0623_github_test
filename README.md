@@ -19,7 +19,7 @@
 
 #### ✅ GitHub 계정 만드는 방법
 1. 웹 브라우저(chrome) 열고 **GitHub 웹사이트** 접속하기 :
-   이 주소를 입력하세요. -> [github 바로가기]https://github.com/
+   이 주소를 입력하세요. -> [github 바로가기] https://github.com
    
   
 
