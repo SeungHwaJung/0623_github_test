@@ -8,3 +8,8 @@
 ``` bash
 블라블라
 ```
+```
+install matplotlib
+sudo apt update
+sudo apt upgrade
+```
