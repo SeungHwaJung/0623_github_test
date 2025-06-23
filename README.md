@@ -97,34 +97,20 @@ ___
 
 2. **New Notebook** 클릭하기
 
-3. ![image](https://github.com/user-attachments/assets/a424d8ba-83d7-4dab-86b0-4e649d96e8ad)
+3.
+   ![image](https://github.com/user-attachments/assets/a424d8ba-83d7-4dab-86b0-4e649d96e8ad)
 
    (1) 노트 이름 변경 -> (2) 런타임 클릭 -> (3) 런타임 유형 변경 클릭 -> T4 GPU로 변경 후 저장
 
    ![image](https://github.com/user-attachments/assets/e9da7907-cad2-4a13-a552-a6630aec9413)
 
-4. ![image](https://github.com/user-attachments/assets/38331632-fcec-4844-bc1f-c0d73831dda0)
+4.
+   ![image](https://github.com/user-attachments/assets/38331632-fcec-4844-bc1f-c0d73831dda0)
    빈칸에 python 코드 작성 후 디버깅 가능
 
-5. ![image](https://github.com/user-attachments/assets/60c876a6-08ae-4f49-aeaf-ee81e5f39221)
+5.
+   ![image](https://github.com/user-attachments/assets/60c876a6-08ae-4f49-aeaf-ee81e5f39221)
    왼쪽 상단의 파일 클릭 -> 'GitHub에 사본 저장' 클릭하면 GitHub에 생성됨
-
-
-  
-
-   
-
-
-
-7. **가입시 개인정보 입력** -> 이메일 주소, 비밀번호 만들기
-
-8. **사용자 이름** 정하기 -> 나만의 고유한 이름
-
-
-
-
-
-
 
 
 
